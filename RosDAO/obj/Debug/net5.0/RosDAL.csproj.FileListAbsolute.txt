@@ -1,0 +1,15 @@
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\bin\Debug\net5.0\RosDAL.deps.json
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\bin\Debug\net5.0\RosDAL.dll
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\bin\Debug\net5.0\RosDAL.pdb
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\bin\Debug\net5.0\RosModel.dll
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\bin\Debug\net5.0\RosModel.pdb
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\RosDAL.csproj.AssemblyReference.cache
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\RosDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\RosDAL.AssemblyInfoInputs.cache
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\RosDAL.AssemblyInfo.cs
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\RosDAL.csproj.CoreCompileInputs.cache
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\RosDAL.csproj.CopyComplete
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\RosDAL.dll
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\ref\RosDAL.dll
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\RosDAL.pdb
+C:\Users\achil\OneDrive\Documents\InHolland University 1st\Term_4\Project Building applications\RestaurantOrderingSystemProject\RosDAO\obj\Debug\net5.0\refint\RosDAL.dll
