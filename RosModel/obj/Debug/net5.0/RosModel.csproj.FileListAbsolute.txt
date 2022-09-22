@@ -1,0 +1,12 @@
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\bin\Debug\net5.0\RosModel.deps.json
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\bin\Debug\net5.0\RosModel.dll
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\bin\Debug\net5.0\RosModel.pdb
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\obj\Debug\net5.0\RosModel.csproj.AssemblyReference.cache
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\obj\Debug\net5.0\RosModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\obj\Debug\net5.0\RosModel.AssemblyInfoInputs.cache
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\obj\Debug\net5.0\RosModel.AssemblyInfo.cs
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\obj\Debug\net5.0\RosModel.csproj.CoreCompileInputs.cache
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\obj\Debug\net5.0\RosModel.dll
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\obj\Debug\net5.0\refint\RosModel.dll
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\obj\Debug\net5.0\RosModel.pdb
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosModel\obj\Debug\net5.0\ref\RosModel.dll
