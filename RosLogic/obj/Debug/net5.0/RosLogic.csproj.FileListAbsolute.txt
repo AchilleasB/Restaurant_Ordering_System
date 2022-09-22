@@ -1,0 +1,17 @@
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\bin\Debug\net5.0\RosLogic.deps.json
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\bin\Debug\net5.0\RosLogic.dll
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\bin\Debug\net5.0\RosLogic.pdb
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\bin\Debug\net5.0\RosDAL.dll
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\bin\Debug\net5.0\RosModel.dll
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\bin\Debug\net5.0\RosDAL.pdb
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\bin\Debug\net5.0\RosModel.pdb
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\RosLogic.csproj.AssemblyReference.cache
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\RosLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\RosLogic.AssemblyInfoInputs.cache
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\RosLogic.AssemblyInfo.cs
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\RosLogic.csproj.CoreCompileInputs.cache
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\RosLogic.csproj.CopyComplete
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\RosLogic.dll
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\refint\RosLogic.dll
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\RosLogic.pdb
+D:\Achil\InHolland University 1st\Term_4\RestaurantOrderingSystemProject\RosLogic\obj\Debug\net5.0\ref\RosLogic.dll
